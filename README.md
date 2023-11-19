@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="[https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=1500w](https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif)">
+<img align="right" alt="coding" width="400" src="[https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhsheikh&label=Profile%20views&color=0e75b6&style=flat" alt="talhsheikh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mediocretalha" target="blank"><img src="https://img.shields.io/twitter/follow/mediocretalha?logo=twitter&style=for-the-badge" alt="mediocretalha" /></a> </p>
