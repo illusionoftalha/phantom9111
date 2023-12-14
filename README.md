@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TalhSheikh](https://github.com/phantom911)
+- 👨‍💻 All of my projects are available at [https://github.com/TalhSheikh](https://github.com/phantom9111)
 
 - 📝 I regularly write articles on [https://trendsinsiders.com/](https://trendsinsiders.com/)
 
