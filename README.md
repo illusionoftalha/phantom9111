@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **muhammadtalhabinkhalid@gmail.com**
-
 - 📄 Know about my experiences [https://docdro.id/pl28e9k](https://docdro.id/pl28e9k)
 
 - ⚡ Fun fact **I think I am a Nerd!**
