@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Full Stack Development**
 
-- 📄 Know about my experiences [https://docdro.id/pl28e9k](https://docdro.id/pl28e9k)
-
 - ⚡ Fun fact **I think I am a Nerd!**
 
 
